@@ -1,0 +1,29 @@
+GET http://localhost:3000/test/1
+
+###
+
+GET http://localhost:3000/orders
+
+###
+
+GET http://localhost:3000/orders/db300298-d068-48f1-b7fc-31d7d1e6e288
+###
+
+
+POST http://localhost:3000/orders
+Content-Type: application/json
+
+{
+    "amount": 1000.99
+}
+###
+
+PATCH http://localhost:3000/orders/db300298-d068-48f1-b7fc-31d7d1e6e288
+Content-Type: application/json
+
+{
+    "amount": 2799.99
+}
+###
+
+DELETE  http://localhost:3000/orders/db300298-d068-48f1-b7fc-31d7d1e6e288
