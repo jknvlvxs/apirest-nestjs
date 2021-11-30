@@ -21,7 +21,7 @@
 
   
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository and [Docker](https://github.com/docker) initial configuration using the guide ['Criando API Rest Nest.js'](https://www.youtube.com/watch?v=CmJGmNkY6FU) provided from [FullCycle on Youtube](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA).
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository and [Docker](https://github.com/docker) initial configuration using the guide ['Criando API Rest Nest.js'](https://www.youtube.com/watch?v=CmJGmNkY6FU) provided from [Full Cycle on Youtube](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA).
 
   
 
