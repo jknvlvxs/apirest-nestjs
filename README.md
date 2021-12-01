@@ -37,3 +37,5 @@ $ docker-compose up
 
 ```
 Access http://localhost:3000/orders in the browser. Use the api.http file to test the API.
+
+See the [guide repository](https://github.com/codeedu/live-imersao-fullcycle4-nest-api)
