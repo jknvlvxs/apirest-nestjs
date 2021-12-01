@@ -25,34 +25,15 @@
 
   
 
-## Running the Nest.js app
+## Running the Nest.js app with Docker
 
   
 
 ```bash
 
-# installation
+# running with docker
+$ docker-compose up
 
-$ npm install
-
-  
-
-# development
-
-$ npm run start
-
-  
-
-# watch mode
-
-$ npm run start:dev
-
-  
-
-# production mode
-
-$ npm run start:prod
-
-  
 
 ```
+Access http://localhost:3000/orders in the browser. Use the api.http file to test the API.
